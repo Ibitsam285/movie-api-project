@@ -1,0 +1,12 @@
+[
+    { "name": "Christopher Nolan", "country": "United Kingdom", "birth_year": 1970 },
+    { "name": "Quentin Tarantino", "country": "United States", "birth_year": 1963 },
+    { "name": "Steven Spielberg", "country": "United States", "birth_year": 1946 },
+    { "name": "Martin Scorsese", "country": "United States", "birth_year": 1942 },
+    { "name": "Francis Ford Coppola", "country": "United States", "birth_year": 1939 },
+    { "name": "Ridley Scott", "country": "United Kingdom", "birth_year": 1937 },
+    { "name": "David Fincher", "country": "United States", "birth_year": 1962 },
+    { "name": "James Cameron", "country": "Canada", "birth_year": 1954 },
+    { "name": "Stanley Kubrick", "country": "United States", "birth_year": 1928 },
+    { "name": "Alfred Hitchcock", "country": "United Kingdom", "birth_year": 1899 }
+]

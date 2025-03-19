@@ -1,0 +1,12 @@
+[
+    { "name": "Leonardo DiCaprio", "age": 49, "country": "United States" },
+    { "name": "Robert De Niro", "age": 80, "country": "United States" },
+    { "name": "Tom Hanks", "age": 67, "country": "United States" },
+    { "name": "Brad Pitt", "age": 60, "country": "United States" },
+    { "name": "Morgan Freeman", "age": 86, "country": "United States" },
+    { "name": "Johnny Depp", "age": 60, "country": "United States" },
+    { "name": "Christian Bale", "age": 50, "country": "United Kingdom" },
+    { "name": "Al Pacino", "age": 83, "country": "United States" },
+    { "name": "Keanu Reeves", "age": 59, "country": "Canada" },
+    { "name": "Denzel Washington", "age": 69, "country": "United States" }
+]

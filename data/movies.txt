@@ -1,0 +1,12 @@
+[
+    { "title": "Inception", "releaseYear": 2010, "genre": "", "director": "" },
+    { "title": "The Dark Knight", "releaseYear": 2008, "genre": "", "director": "" },
+    { "title": "Interstellar", "releaseYear": 2014, "genre": "", "director": "" },
+    { "title": "Fight Club", "releaseYear": 1999, "genre": "", "director": "" },
+    { "title": "The Matrix", "releaseYear": 1999, "genre": "", "director": "" },
+    { "title": "Pulp Fiction", "releaseYear": 1994, "genre": "", "director": "" },
+    { "title": "The Shawshank Redemption", "releaseYear": 1994, "genre": "", "director": "" },
+    { "title": "The Godfather", "releaseYear": 1972, "genre": "", "director": "" },
+    { "title": "Forrest Gump", "releaseYear": 1994, "genre": "", "director": "" },
+    { "title": "Gladiator", "releaseYear": 2000, "genre": "", "director": "" }
+]

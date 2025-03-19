@@ -32,7 +32,7 @@ app.use("/api/genres", genreRoutes);
 app.use("/api/actors", actorRoutes);
 app.use("/api/movieActors", movieActorRoutes);
 
-// app.listen(process.env.PORT, () => console.log(`Server running on port ${process.env.PORT}`));
+app.listen(process.env.PORT, () => console.log(`Server running on port ${process.env.PORT}`));
 
 // For Testing, stopping .listen
-module.exports = app
+// module.exports = app
